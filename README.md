@@ -32,7 +32,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/recursos/25e2c049-bba4-4cdb-8221-9cac486f9208.jpg" width="90"/> | **Jenny Cabrera Palomino** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/recursos/20260822_090853.jpg" width="90"/> | **Isaias Manuel Acosta Soto** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/20260822_090853.jpg" width="90"/> | **Mauro Anthony Hurtado Huamán** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="./Recursos/20260822_090853.jpg" width="90"/> | **Gino Royman Cardenas Morales** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/recursos/WhatsApp Image 2026-08-22 at 10.23.47 PM.jpeg" width="90"/>| **Gino Royman Cardenas Morales** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/recursos/WhatsApp Image 2026-03-19 at 11.05.44 AM.jpeg" width="90"/> | **Huerta Roque Edgar Josue** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
